@@ -5,3 +5,6 @@ https://d2.naver.com/helloworld/4969726
 
 # VAC Pattern
 https://tv.naver.com/v/23162062
+
+# ES6 Modules in Depth
+https://ponyfoo.com/articles/es6-modules-in-depth
